@@ -1,0 +1,17 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "teste de modulo local",
+  "main": "consomeB.js",
+  "scripts": {
+    "start": "node consomeB",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "module",
+    "node"
+  ],
+  "author": "Mauricio",
+  "license": "ISC"
+}
